@@ -1,2 +1,2 @@
-# Ex7_2 - Product Viewer App
-This Java console application demonstrates OOP principles using a three-tiered architecture. Product.java stores private fields with getters and setters. ProductDB.java retrieves product data by code. ProductApp.java handles all user input and output, calling the business and data tiers to display product information.
+# Ex7_1 - String Reversal App
+This Java console application reverses a user-entered string using two methods. The iterative method loops from the last character to the first, building the reversed string. The recursive method peels off the last character and calls itself on the rest until the base case is reached.
